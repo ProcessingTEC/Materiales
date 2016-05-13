@@ -12,6 +12,11 @@ Agregar cualquier material, video o referencia que consideren relevante y útil
 
 ##Libros y Referencias
 
+###Artículos
+
+* [Code bending, rapid application developement](https://www.researchgate.net/profile/Ilias_Bergstrom/publication/271190788_Code_Bending_A_New_Creative_Coding_Practice/links/560d39eb08ae2aa0be49c0ce.pdf)
+
+
 
 ##Pàginas Interesantes
 
