@@ -26,5 +26,9 @@ Agregar cualquier material, video o referencia que consideren relevante y útil
 
 ##Pàginas Interesantes
 
+* [Open processing](http://www.openprocessing.org/)
+* [Processing javascript](http://p5js.org/)
+* [Processing github](https://github.com/processing)
+* [Processing Forum](https://forum.processing.org/two/)
 
 ##Proyectos Interesantes
