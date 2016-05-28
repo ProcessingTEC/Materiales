@@ -34,3 +34,9 @@ Agregar cualquier material, video o referencia que consideren relevante y útil
 * [Debugging](https://vimeo.com/channels/debugging)
 
 ##Proyectos Interesantes
+
+##Videos
+
+* [Documental Processing](https://vimeo.com/60731302)
+* [Casey Reas hablando de Processing](https://www.youtube.com/watch?v=_8DMEHxOLQE)
+* 
